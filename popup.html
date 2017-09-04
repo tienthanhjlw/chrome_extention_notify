@@ -1,25 +1,66 @@
 <!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-    <link rel="stylesheet" href="bootstrap.min.css">
-</head>
-<body style="width: 350px">
-<div class="jumbotron text-center">
-    <h3>CẦU NGUYỆN CHO FESIVAL YÊU HÀ NỘI</h3>
-</div>
-<div class="day text-center">
-    <div class="day-oval">
-        <h4>Thứ 2</h4>
-    </div>
-    <p>Cầu nguyện cho các bậc cầm quyền từ trung ương đến địa phương. Cầu nguyện cho các dân tộc việt Nam</p>
-</div>
-<footer class="text-center">
-    <p>Văn phòng Fesival</p>
-    <p>Điện thoại: 092324242424</p>
-    <p>Email: dgdgdgdgdg@gms.ovm</p>
-</footer>
-<script src="jquery.min.js"></script>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>CẦU NGUYỆN CHO DÂN TỘC VIỆT NAM</title>
+        <link rel="stylesheet" href="bootstrap.min.css">
+        <style>
+            .header {
+                background-color: #6f0909;
+            }
+            .header>p {
+            margin-bottom: auto;
+            color: #fff;                
+            }
+            .uc {
+            text-transform: uppercase;
+            }
+            p.text_1 {
+            font-weight: 400;
+
+            }
+            p.text_2 {
+
+            }
+            p.text_3 {
+            font-size: 30px;
+            font-weight: bolder;
+            }
+            p.content {
+            padding-right: 15px;
+            padding-left: 15px;
+            color: #b51414;
+            font-weight: bold;
+            }
+            .footer {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                margin-bottom: 0px; 
+            }
+            .footer>p {
+                margin-bottom: auto;
+            }
+        </style>
+    </head>
+    <body style="width: 350px">
+        <div class="jumbotron header text-center">
+            <p class="text_1">CẦU NGUYỆN</p>
+            <p class="text_2">CHO DÂN TỘC</p>
+            <p class="text_3">VIỆT NAM</p>
+        </div>
+        <div class="day text-center">
+            <div class="day uc">
+                <h4 id="day"></h4>
+            </div>
+            <p id="content" class="content uc"></p>
+        </div>
+        <br>
+        <footer class="jumbotron footer text-center">
+            <p>Văn phòng Fesival</p>
+            <p>Điện thoại: 092324242424</p>
+            <p>Email: dgdgdgdgdg@gms.ovm</p>
+        </footer>
+        <script src="jquery.min.js"></script>
+        <script src="popup.js"></script>
+    </body>
 </html>
