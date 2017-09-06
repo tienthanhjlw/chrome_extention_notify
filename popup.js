@@ -12,19 +12,19 @@ $(function(){
         day: 'Thứ Ba',
         content: 'Cầu nguyện cho lãnh đạo thành phố và người dân Hà Nội'
         },
-        4 : {
+        3 : {
         day: 'Thứ Tư',
         content: 'Cầu nguyện cho Mục sư Tiến sĩ Franklin Graham và đoàn truyền giáo BGEA'
         },
-        5 : {
+        4 : {
         day: 'Thứ Năm',
         content: 'Cầu nguyện cho ban tổ chức Festival Yêu Hà Nội và nguồn tài chính cho lễ hội'
         },
-        6 : {
+        5 : {
         day: 'Thứ Sáu',
         content: 'Cầu nguyện cho tất cả các Ủy ban hoạt động hiệu quả'
         },
-        7 : {
+        6 : {
         day: 'Thứ Bảy',
         content: 'Cầu nguyện cho cả cộng đồng Tin Lành hiệp một trong sự cầu thay cho lễ hội'
         }
