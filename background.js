@@ -22,7 +22,7 @@ var data_vn = {
   },
   3 : {
     day: 'Thứ tư',
-    content: 'Cầu nguyện cho Mục sư Tiến sĩ Franklin Graham và đoàn truyền giáo BGEA'
+    content: 'Cầu nguyện cho Mục sư Tiến sĩ Franklin Graham và Hiệp Hội Truyền Giáo Billy Graham'
   },
   4 : {
     day: 'Thứ năm',
