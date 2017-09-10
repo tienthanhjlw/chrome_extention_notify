@@ -11,6 +11,6 @@ Extention thông báo việc cầu nguyện cho trình duyệt Chrome
 1. Dowload thư mục [chrome_extention_notify](https://github.com/tienthanhjlw/chrome_extention_notify/archive/master.zip) về máy tính rồi giải nén.
 2. Trong trình duyệt Chrome.
     - Cách 1: Click vào **Tùy chỉnh và điều khiển Google Chrome** (dấu ba chấm trên cùng phía góc phải màn hình) > **Công cụ khác** > **Tiện ích mở rộng**
-    - Cách 2: Hoặc gõ ["chrome://extensions/"](chrome://extensions/) trên trình duyệt.
+    - Cách 2: Hoặc gõ ["*chrome://extensions/*"](chrome://extensions/) trên trình duyệt.
 3. Click vào ô checkbox **Chế độ dành cho nhà phát triển**.
 4. Click vào button **Tải tiện ích đã bung**, chọn thư mục *chrome_extention_notify* mà bạn vừa giải nén ở bước 1.
