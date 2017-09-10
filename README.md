@@ -8,9 +8,6 @@ Extention thông báo việc cầu nguyện cho trình duyệt Chrome
 2. Thông báo nội dung cầu nguyện
 3. (...đang phát triển)
 
-## Hoạt động
-    -
-    -
 ## Hướng dẫn cài đặt thủ công:
 1. Dowload thư mục [chrome_extention_notify](https://github.com/tienthanhjlw/chrome_extention_notify/archive/master.zip) về máy tính rồi giải nén.
 2. Trong trình duyệt Chrome.
